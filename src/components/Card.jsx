@@ -73,7 +73,7 @@ function Card() {
             </p>
           </div>
           <div>
-            <p className="text-4xl">300$</p>
+            <p className="text-4xl line-through">300$</p>
             <p className="text-green-600 text-4xl">150$</p>
             <button className="bg-yellow-500 h-10 w-30 mt-3 rounded">
               buy know
