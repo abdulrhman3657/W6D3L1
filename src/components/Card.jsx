@@ -9,31 +9,31 @@ function Card() {
             info:"tv televisions air conditioners washing machines audio & theaters office electronics"
         },
                 {
-            name:"electronics",
-            img:"https://m.media-amazon.com/images/I/81hbmwvrDiL._AC_SL1500_.jpg",
+            name:"shirt",
+            img:"https://m.media-amazon.com/images/I/71nnPZ6cdUL._AC_SX569_.jpg",
             info:"tv televisions air conditioners washing machines audio & theaters office electronics"
         },
                 {
-            name:"electronics",
-            img:"https://m.media-amazon.com/images/I/81hbmwvrDiL._AC_SL1500_.jpg",
+            name:"laptop",
+            img:"https://m.media-amazon.com/images/I/71HjjQFkzML._AC_SL1280_.jpg",
             info:"tv televisions air conditioners washing machines audio & theaters office electronics"
         }
         ,
                 {
-            name:"electronics",
-            img:"https://m.media-amazon.com/images/I/81hbmwvrDiL._AC_SL1500_.jpg",
+            name:"furniture",
+            img:"https://m.media-amazon.com/images/I/61GLN24KsvL._AC_SL1000_.jpg",
             info:"tv televisions air conditioners washing machines audio & theaters office electronics"
         } 
         ,
                 {
-            name:"electronics",
-            img:"https://m.media-amazon.com/images/I/81hbmwvrDiL._AC_SL1500_.jpg",
+            name:"phones",
+            img:"https://m.media-amazon.com/images/I/61K3Y0MZMpL._AC_SL1500_.jpg",
             info:"tv televisions air conditioners washing machines audio & theaters office electronics"
         } 
         ,
                 {
-            name:"electronics",
-            img:"https://m.media-amazon.com/images/I/81hbmwvrDiL._AC_SL1500_.jpg",
+            name:"whieght",
+            img:"https://m.media-amazon.com/images/I/617LH20BD5L._SL1472_.jpg",
             info:"tv televisions air conditioners washing machines audio & theaters office electronics"
         }         
     ];
@@ -62,7 +62,7 @@ function Card() {
       </div>
 
 
-          <div className="flex flex-wrap p-3 m-5 items-center justify-around bg-amber-200">
+          <div className="flex flex-wrap p-3 m-5 items-center justify-around border">
             <div>
               <h1 className="font-bold py-5">Bose Bluetooth woreless headphones</h1>
               <p>
